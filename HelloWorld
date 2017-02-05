@@ -2,12 +2,54 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>HTML5 : Hello World Example</title>
+        <title>Hello World Example</title>
+    <style>
+    .BigRed{
+      color:red;
+      font-size:36px;
+    }
+    span.note{
+      font-size: 50%;
+      color: green;
+    }
+    </style>
     </head>
+
     <body>
-        <h1>Hello World</h1>
-        <p>
-            Hey there!
+        <h1>Header 1?</h1>
+        <h2>Header 2?</h2>
+        <h3>Header 3?</h3>
+        <h4>Header 4?</h4>
+        <h5>Header 5?</h5>
+        <h6>Header 6?</h6>
+        <h7>Header 7?</h7>
+        <hr>
+        <h1>Header 1? Again</h1>
+        <h8>Header 8? try < h r > here </h8>
+
+
+        <a href="http://www.w3schools.com">A link to webhelp</a>
+
+        <p title="YO CHECK ME OUT BABY">
+            This is where i would type paragraphs!!!
         </p>
+        <p>
+          The HTML head element contains meta data.
+        </p>
+        <p>
+          Meta data is data about the HTML document.
+        </p>
+        <p style="color:red;">I am red</p>
+        <div class="BigRed">
+        <p>I am red and big :( </p>
+          <p style="font-style:italic;"> HELLA ITALIC 2 </p>
+          <p>
+             BLah blah balh blah balh bla bla
+             <span class="note">important</span>
+              bla bla bla
+          </p>
+      </div>
+
+
     </body>
 </html>
