@@ -19,17 +19,26 @@
     <a href="#" class="list-group-item">Second item</a>
     <a href="#" class="list-group-item">Third item</a>
   </div>
-
-  <div class= "col-sm-3">
-    <img src="headshot_0.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236">
+  <div class= "col-md-3">
+    <div class= "col-xs-12">
+      <img src="headshot_0.jpg" class="img-thumbnail" alt="Ben Shapland" width="304" height="236">
+    </div>
   </div>
-  <div class= "col-sm-9">
-    <h1>
-      <b>My Bio</b>
-    </h1>
-    <p>
-      Hi I come from the land of the wind and the snow! I fight off noobs in the world of counter strike and im one hell of a weaboo.
-    </p>
+  <div class= "col-md-9">
+    <div class="container-fluid">
+      <h1>
+        <b>My Bio</b>
+        <hr>
+      </h1>
+      <p>
+        Hi I come from the land of the wind and the snow! I fight off noobs in the world of counter strike and im one hell of a weaboo.
+
+        My name is Bentley Shapland i'm an enthusiastic  twenty one year old in my third year of studies at the University of Victoria in the field of computer science. Working with peers to help children learn about the world of science sounds like a blast that's why I'm applying for the position of Youth STEM Instructor. This job would be a great fit for me because I have plenty of experience teaching through my years as a sailing instructor. Most of my working career has involved taking care of children. I am extremely well versed in this field: I ran a sailing class of thirty kids on my own, talked to angry parents, helped children get over their fears and helped train new teachers.
+        Since the age of fourteen working with children has been a large part of my life and the majority of my work experience. Once completing a babysitting course I started to babysit, moving on to volunteer at youth camps (BIYC, Bowen parks and rec) and eventually becoming a head sailing instructor. If hired my experience teaching and monitoring children would  be a huge asset to the team. Being flexible is a must when it comes to the ever changing weather conditions around the ocean.
+        When I’m teaching, safety always comes first. To become an instructor at BIYC there are many first aid and safety requirements that must be met. I had to complete my red cross first aid course along with my bronze medallion. The skills acquired at these classes are key, but cannot be heavily relied upon, preventing situations that could result in injury is equally important. Over the years teaching sailing my ability to prevent injuries of my students has improved immensely. Keeping your students safe is extremely important. By hiring me you can be confident that I will not only be able to react to incidents, but I will strive to prevent them.
+        While teaching sailing there are two events that single handedly make my day. The first is when a student is able to show their new found knowledge and succeed in a difficult task that they once struggled with. The second is when the parents of children in my sailing class come up to me to tell me that their child looks up to me and that these parents are happy to have me as a positive role model for their kids. I pride myself on being an excellent role model for the children that look up to me.
+      </p>
+    </div>
   </div>
 
 </body>
